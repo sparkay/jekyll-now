@@ -34,3 +34,5 @@ Now, ggplot does have the opposite problem, in a way. If you have columnar data,
 Now some people will point out that it is still useful to understand the matplotlib syntax in order to customize your python figures. This is true, and this is an area where R still has Python beat. You can do all of your customization in ggplot without having to reference the base R plotting library. (See my post on creative ggplot use for an example) Someone, someone should probably write a more userfriendly wrapper for matlabplot to do the same.
 
 See http://pltn.ca/plotnine-superior-python-ggplot/ for a roundup of python ggplot ports: "Python users are forced to carry the extra cognitive load of learning several visualization libraries, learning their implementation details, and working around their limitations."
+
+also https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/ has a nice comparison of different python plotting methods.
