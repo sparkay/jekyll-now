@@ -25,6 +25,9 @@ However, if your data is in this format:
 the required slicing needed to transform it to the expected pyplot input is annoyingly complex:
 [code]
 
+(Ok, yes, you could just use pandas to pivot the data back to wide format and then do as above - getting your plotitng done in just two lines, but it doesn't invalidate my point that you shouldn't have to think about transforming your data just to plot it.)
+
+
 Lets compare this to the opposite situation in R/ggplot.
 Here is how to create the same line plot from tidy data in ggplot:
 
