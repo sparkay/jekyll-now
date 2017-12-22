@@ -5,7 +5,7 @@ tags: R Python matplotlib ggplot
 ---
 ## or matplotlib versus ggplot
 
-I am currently on a quest to improve my python abilities. On this quest, my love for pandas is matched only by my loathing of matplotlib. There appears to be a philosophy out there that one should learn matplotlib/pyplot as the basic python visualization tool. This is not unlike this (link) debate on ggplot versus base graphics in R. However, given the availability of libraries like seaborn, this practice should stop. 
+I am currently on a quest to improve my python abilities. On this quest, my love for pandas is matched only by my loathing of matplotlib. There appears to be a philosophy out there that one should learn matplotlib/pyplot as the basic python visualization tool. This is not unlike this (link) debate on ggplot versus base graphics in R. However, given the availability of libraries like ~~seaborn~~ Altair and plotnine, this practice should stop. 
 
 Why? 
 
